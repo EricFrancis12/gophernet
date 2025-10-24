@@ -1,4 +1,4 @@
-module github.com/EricFrancis12/go-neural-net
+module gophernet
 
 go 1.23.0
 

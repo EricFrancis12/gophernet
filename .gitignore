@@ -1,0 +1,6 @@
+/bin
+/application
+/bootstrap
+**/*tweet-panther
+**/*.exe
+**/*.msi
